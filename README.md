@@ -4,7 +4,7 @@
 
 In this exercise you will:
 
-* Explore custom `struct` types and `typedef` in C.
+* Explore custom `struct` types and `typedef` in C. 
 * Link against existing system libraries (e.g., `-lm`).
 * Create and evolve a custom C library from header-only to a precompiled static archive and install it system-wide.
 * Install and use a third-party JSON library (`jansson`) via your package manager.
